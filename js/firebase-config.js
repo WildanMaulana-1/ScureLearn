@@ -7,11 +7,14 @@
   apiKey: "AIzaSyCaFhIFjOzAKrdueV8L4_t6i84sxerQy0U",
   authDomain: "login-project-18eca.firebaseapp.com",
   projectId: "login-project-18eca",
+  storageBucket: "login-project-18eca.firebasestorage.app",
+  messagingSenderId: "657467004061",
   appId: "1:657467004061:web:1deeccfadf70bad49cb074",
+  measurementId: "G-XPJSCQBHXG"
 };
 
 
   const app = initializeApp(firebaseConfig);
   const auth = getAuth(app);
   const db = getFirestore(app);
-    export { auth, db };
+    export { app, auth, db };
