@@ -59,3 +59,10 @@ Agar fitur autentikasi dan integrasi data berjalan dengan baik, pastikan konfigu
 ## Kontribusi
 
 Jika ingin mengembangkan proyek ini lebih lanjut, Anda dapat menambah modul pembelajaran, memperbaiki desain UI, atau mengintegrasikan fitur analitik yang lebih lengkap.
+
+## Klompok D8 
+Judul Aplikasi: Aplikasi E-Learning Edukasi Keamanan Data Publik dengan AI Risk Awareness.
+Dibuat Oleh:
+1.Azaky Qolby Prawiro
+2.Sabda Aidilah Farel Raihan
+3.Wildan Maulana
