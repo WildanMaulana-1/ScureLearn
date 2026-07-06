@@ -1,6 +1,6 @@
-# SecureLearn Dashboard
+# SecureLearn
 
-SecureLearn adalah dashboard web interaktif untuk membantu pengguna memahami keamanan data publik melalui asesmen risiko, modul pembelajaran, dan riwayat pemantauan keamanan.
+SecureLearn adalah web interaktif untuk membantu pengguna memahami keamanan data publik melalui asesmen risiko, modul pembelajaran, dan riwayat pemantauan keamanan.
 
 ## Fitur Utama
 
